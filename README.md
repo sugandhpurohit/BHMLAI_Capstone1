@@ -55,8 +55,12 @@ Song track based on popularity and favorite artist are commonly recommended as n
 
 ### Few screenshots from project
 
-![](KMeans Vs DBScan Scores.png)
+![KMeans Vs DBScan Scores](https://github.com/user-attachments/assets/5243c624-ba52-4c9d-847c-2376c11ef6b3)
 
-![](KMeans Clustering.png)
+![KMeans Clustering](https://github.com/user-attachments/assets/cbd00567-6353-4af8-ba70-7232b7e8295c)
 
-![](Identified Points of Similar Tracks.png)
+![Identified Points of Similar Tracks](https://github.com/user-attachments/assets/289be7f3-e790-4db7-9ea4-c6dac1d892f8)
+
+
+
+
